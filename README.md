@@ -29,13 +29,13 @@ The inspiration for PQ Hub came from personal experience. As a student myself, a
 
 PQ Hub is powered by cutting-edge technologies to deliver a seamless user experience.
 
-- **Frontend**: Developed using React and styled with Tailwind CSS for a sleek and modern look.
+- **Frontend**: Developed using [React](https://react.dev) and styled with [Tailwind CSS](https://tailwindcss.com) for a sleek and modern look.
   
-- **Backend**: Powered by Firebase, ensuring robust performance and seamless data management.
+- **Backend**: Powered by [Firebase](https://firebase.com), ensuring robust performance and seamless data management.
 
-- **Libraries**: We've integrated additional libraries such as MUI for intuitive UI, React-Select for dropdowns and React-Hot-Toast for user-friendly notifications.
+- **Libraries**: We've integrated additional libraries such as [MUI](https://mui.com) for intuitive UI, [React-Select](https://react-select.com) for dropdowns and [React-Hot-Toast](https://react-hot-toast.com) for user-friendly notifications.
 
-- **Development Tools**: Built with Vite for rapid development and efficient maintenance.
+- **Development Tools**: Built with [Vite](https://vite.com) for rapid development and efficient maintenance.
 
 ## Future Plans
 
@@ -64,9 +64,6 @@ Kebbi State, Nigeria.
 - [WhatsApp](https://wa.me/2347046864411)
 - [Instagram](https://www.instagram.com/devnasfam/)
 - [Twitter](https://twitter.com/devnasfam)
-
-**Feedback**:
-Send Feedback..
 
 Proudly founded by @devnasfam  
 © All rights reserved 2023
