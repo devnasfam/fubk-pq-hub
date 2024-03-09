@@ -1,8 +1,6 @@
 # PQ Hub
 
-![PQ Hub Logo](logo.png)
-
-## About
+![PQ Hub Logo](openbook-FnGlS3iK.png)
 
 ### What is PQ Hub?
 PQ Hub, short for Past Questions Hub, is a project designed to address a common challenge faced by students. We understand the persistent challenge students face when it comes to finding and sharing past questions for exam preparations. That's why we're dedicated to eliminating the hassle and bringing past questions right to your fingertips.
